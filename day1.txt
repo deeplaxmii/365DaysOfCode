@@ -1,0 +1,4 @@
+DAY 1
+
+Question 1 : https://leetcode.com/problems/running-sum-of-1d-array/
+Question 2 : https://leetcode.com/problems/richest-customer-wealth/
